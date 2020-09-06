@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284325494842",
+    "firebase_url": "https://diezdos-6210e.firebaseio.com",
+    "project_id": "diezdos-6210e",
+    "storage_bucket": "diezdos-6210e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284325494842:android:9d673281828f97aa1f7503",
+        "android_client_info": {
+          "package_name": "com.diezdos.diezdos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284325494842-e9en1df29lns5guuaucr8k7mc14fi515.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diezdos.diezdos",
+            "certificate_hash": "34ea78cef7c7ab2338293ce3ea4be3b0216c0612"
+          }
+        },
+        {
+          "client_id": "284325494842-s9bhn6p81cp6jmob3jgtmr1ve92eo5op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZ9lfyQfuGP5cfwu5vp2vLW__JXOq9GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284325494842-s9bhn6p81cp6jmob3jgtmr1ve92eo5op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
